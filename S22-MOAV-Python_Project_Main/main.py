@@ -1,4 +1,5 @@
-from config import *
+"""Stand-alone script holding all the functions implemented in this project"""
+
 from Data_handling import *
 from plot import *
 
