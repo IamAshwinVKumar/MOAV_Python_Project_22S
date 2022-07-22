@@ -1,5 +1,5 @@
 # MOAV_Python_Project_S22
-As a part of Python programming for water resources engineering
+As a part of Python programming course for water resources engineering
 ***
 # Prediction model for WWTP parameters (GUI)
 
