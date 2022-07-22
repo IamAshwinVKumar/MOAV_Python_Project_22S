@@ -1,9 +1,9 @@
-""" Used for recording events in a Log file"""
+""" Used for recording events in a Log file """
 
 from config import logging
 
 # The location of Log file is defined here
-log_file = "./log_file_dump.log"
+log_file = "./log_records.log"
 
 # Logging configuration
 logging.basicConfig(filename=log_file, filemode="w", format="%(name)s - %(asctime)s - %(message)s", level=logging.DEBUG)
