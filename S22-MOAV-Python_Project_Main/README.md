@@ -158,7 +158,11 @@ _This is to show the plotting of the predicted and the measured values_
 
 ***
 ### Inference
+<<<<<<< HEAD
 > _RF model trains very quickly and is easy to use compared to other regression models, but for our data of waster water its accuracy is very low. Hence, other models needs to be tested for better efficiency._
+=======
+> _RF model trains very quickly and is easy to use compared to other regression models, but for our data of waster water its accuracy is very low. Hence, other models needs to be tested for maximum efficiency._
+>>>>>>> f54262234eb0fe5f257a49de05d29117d1e93d6a
 
 ***
 ## Reference
