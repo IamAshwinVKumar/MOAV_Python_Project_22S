@@ -62,6 +62,7 @@ import math
     
 # To import global libraries in python
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 
 # To use Random Forest(RF) Model kernel (additional)
