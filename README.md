@@ -12,4 +12,4 @@ As a part of Python programming for water resources engineering
 
 > ***Objective***: To predict COD parameter of WWTP using random forest model, display plot of recorded and predicted values using a GUI. 
 ***
-> Please refer to `README.md` in the project folder *MOAV_Python_Project_S22/S22-MOAV-Python_Project_Main/* for more information.
+> Please refer to `README.md` in the project [folder](https://github.com/IamAshwinVKumar/MOAV_Python_Project_S22/tree/main/S22-MOAV-Python_Project_Main) for more information.
