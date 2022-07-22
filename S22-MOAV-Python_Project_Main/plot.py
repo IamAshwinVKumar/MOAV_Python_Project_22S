@@ -13,8 +13,8 @@ class plot:
     def plotting(prediction, recorded_value):
         """
         Plot the recorded and predicted value of Chemical oxygen demand(COD) parameter
-        :param recorded_value: array
-        :return: array
+        :param recorded_value: numpy array
+        :return: numpy array
         """
         fig, axes = plt.subplots(figsize=(10, 6))
         plt.plot(prediction, label="prediction", color="green")

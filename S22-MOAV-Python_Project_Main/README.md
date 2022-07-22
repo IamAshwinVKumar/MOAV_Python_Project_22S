@@ -44,7 +44,7 @@ The process flow actually involves use of `Data_handling.py` to extract the coll
 * ```plot.py```contains a custom class ```plotting```. 
 * ```GUI.py```contains a class.
 * ```config.py```The project's necessary input file paths are imported together with the necessary packages and modules.
-* ```log.py```contains logging configuration.
+* ```log.py```contains logging configuration demonstration, not actually used in our main script.
 
 ## UML Diagram
 Describes the Classes and functions mentioned in the code structure. 
@@ -157,8 +157,8 @@ c.`def plot(self):`
 _This is to show the plotting of the predicted and the measured values_
 
 ***
-###Inference
-> _RF model trains very quickly and is easy to use compared to other regression models, but for our data of waster water its accuracy is very low. Hence, other models needs to be tested for maximum efficiency._
+### Inference
+> _RF model trains very quickly and is easy to use compared to other regression models, but for our data of waster water its accuracy is very low. Hence, other models needs to be tested for better efficiency._
 
 ***
 ## Reference

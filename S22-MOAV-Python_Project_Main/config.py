@@ -12,6 +12,7 @@ except ModuleNotFoundError as basic:
 # To import global libraries in python.
 try:
     import pandas as pd
+    import numpy as np
     import matplotlib.pyplot as plt
 
     # To use Random Forest(RF) Model kernel

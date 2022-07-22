@@ -1,5 +1,5 @@
 """ Used for recording events in a Log file """
-
+# To be noted that this is to demonstrate the working of log files,it is not actually associated with our 'main.py'
 from config import logging
 
 # The location of Log file is defined here
