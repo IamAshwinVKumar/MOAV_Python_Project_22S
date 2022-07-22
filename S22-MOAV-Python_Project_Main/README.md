@@ -157,7 +157,7 @@ c.`def plot(self):`
 _This is to show the plotting of the predicted and the measured values_
 
 ***
-###Inference
+### Inference
 > _RF model trains very quickly and is easy to use compared to other regression models, but for our data of waster water its accuracy is very low. Hence, other models needs to be tested for maximum efficiency._
 
 ***
